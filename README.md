@@ -17,7 +17,6 @@ A simple and elegant To-do List mobile application built with **Flutter**. This 
 |-------------------------------------------------------------|------------------------------------------------------------|
 | ![Empty State](screenshots/Screenshot_20250506_142715.png)  | ![With Tasks](screenshots/Screenshot_20250506_142823.png)  |
 
-> 📁 *Place your screenshots in a **`screenshots`** folder inside the root directory for them to show properly.*
 
 ## 🚀 Getting Started
 
