@@ -13,9 +13,9 @@ A simple and elegant To-do List mobile application built with **Flutter**. This 
 
 ## 📸 Screenshots
 
-| Empty State | With Tasks |
-| ----------- | ---------- |
-|             |            |
+| Empty State                                                 | With Tasks                                                 |
+|-------------------------------------------------------------|------------------------------------------------------------|
+| ![Empty State](screenshots/Screenshot_20250506_142715.png)  | ![With Tasks](screenshots/Screenshot_20250506_142823.png)  |
 
 > 📁 *Place your screenshots in a **`screenshots`** folder inside the root directory for them to show properly.*
 
@@ -29,7 +29,7 @@ A simple and elegant To-do List mobile application built with **Flutter**. This 
 ### Run Locally
 
 ```bash
-git clone [https://github.com/your-username/flutter-todo-app.git](https://github.com/OnoPUNPUN/todo_app.git)
+git clone https://github.com/OnoPUNPUN/todo_app.git
 cd flutter-todo-app
 flutter pub get
 flutter run
